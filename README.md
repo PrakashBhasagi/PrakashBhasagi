@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrakashBhasagi
-- 👀 I’m interested in Java Backend Development, Android Application Development
-- 🌱 I’m currently learning Spring Framework, Hibernate, MongoDB, AWS
+- 👀 I’m Full Stack developer
+- 🌱 I’m currently working on Spring Boot and Python Web Development
 - 💞️ I’m looking to collaborate with individual or an Organization for above mentioned Tech
 - 📫 Reach me through prakashbhasagi14357@gmial.com/ +91 8496899282 / +91 8660813189
 <!---
